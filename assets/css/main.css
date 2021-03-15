@@ -3557,6 +3557,9 @@ body.is-preload .banner.onload-image-fade-in .image img {
 }
 
 /* Banner (style1) */
+#m0 {
+	height: 444px;
+}
 
 .banner.style1 {
 	-moz-align-items: -moz-stretch;
